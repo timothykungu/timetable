@@ -1,0 +1,54 @@
+* {
+  font-family: Verdana;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: 8px;
+}
+.text1 {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  background-color: slateblue;
+}
+.text2 {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  background-color: slateblue;
+}
+
+.row-head {
+  background-color: slategray;
+}
+.head {
+  background-color: slategrey;
+}
+.form {
+  background-color: slateblue;
+}
+
+.dev {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  background-color: lightblue;
+}
+.break {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  background-color: aquamarine;
+}
+.lunch {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  background-color: aquamarine;
+}
